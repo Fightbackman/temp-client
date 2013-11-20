@@ -1,0 +1,4 @@
+moduleConfigs:
+  - !temp.console.ConsoleConfig
+    load: true
+    name: console
